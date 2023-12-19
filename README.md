@@ -25,18 +25,14 @@
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats:
 
-<div style="display: flex; justify-content: space-around;">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 98%; height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
-  <img style="width: 98%; height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
+  <img style="height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
     
   </a>
-
-</div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img style="width: 100%; height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
