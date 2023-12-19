@@ -28,18 +28,18 @@
 <div style="display: flex; justify-content: space-around;">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 98%;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
+    <img style="width: 98%; height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
-  <img style="width: 98%;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
+  <img style="width: 98%; height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
     
   </a>
 
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img style="width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
+  <img style="width: 100%; height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
