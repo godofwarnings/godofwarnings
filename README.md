@@ -37,5 +37,9 @@
   </a>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofwarnings&show_icons=true&locale=en&layout=compact" alt="godofwarnings" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&show_icons=true&locale=en" alt="godofwarnings" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&" alt="godofwarnings" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
