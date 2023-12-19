@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhikesh Agrawal</h1>
-<h3 align="center">A CS Student with a Love for Systems, Web Development, and AI/ML Adventures</h3>
+<h3 align="center">A CS Student with a love for Systems, Web Development, and AI/ML Adventures</h3>
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardodipitt) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhikeshagrawal) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/leonardodipitt17) 
@@ -11,6 +11,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=My%20heart%20is%20stronger%20now%20that%20you're%20in%20it.&author=The%20Secret%20World%20of%20Arrietty" />
 </div>
 
+## My Main Projects
+
+<p align="left">
+    <a href="https://github.com/godofwarnings/Genesis-c-shell"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=godofwarnings&repo=Genesis-c-shell&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Genesis"></a>
+</p>
 
 ## 💻 Tech Stack:
 <h3 align="left">Languages</h3>
