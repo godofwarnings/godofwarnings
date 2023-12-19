@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHprejlqZm11aTE4eWIzdjB2NXcybHhobW4xYjB5djBiYzA4N3ZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x2nyK30RL7V5WQUKv9/giphy.gif" width="50">Hi, I'm Radhikesh Agrawal</h1>
+<h1 align="center">Hi, I'm Radhikesh Agrawal</h1>
 <h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
