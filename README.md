@@ -33,9 +33,9 @@
   <img style="height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
     
   </a>
+<a href="#"><img alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=godofwarnings&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img style="width: 100%; height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
-</div>
+  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
