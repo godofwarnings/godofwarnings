@@ -2,7 +2,7 @@
 <h3 align="center">A CS Student with a Love for Systems, Web Development, and AI/ML Adventures</h3>
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardodipitt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhikeshagrawal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/leonardodipitt17) 
 
 ## 💻 Tech Stack:
@@ -23,14 +23,23 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&quote=My%20heart%20is%20stronger%20now%20that%20you're%20in%20it.&author=The%20Secret%20World%20of%20Arrietty)
+<div style="display: flex; justify-content: space-around;">
 
----
-[![](https://visitcount.itsvg.in/api?id=godofwarnings&icon=0&color=2)](https://visitcount.itsvg.in)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="width: 95%; height: 220px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img style="width: 95%; height: 220px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
+    
+  </a>
+
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img style="width: 100%; height: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
