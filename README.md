@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=4000&pause=400&color=8A13F7&center=true&vCenter=true&random=false&width=490&height=70&lines=Hi+there!;I'm+Radhikesh+Agrawal" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=4000&pause=600&color=F76C93&center=true&vCenter=true&repeat=false&random=false&width=490&height=70&lines=Hi+there!;I'm+Radhikesh+Agrawal" alt="Typing SVG" /></a>
 <h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
