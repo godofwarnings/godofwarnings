@@ -28,7 +28,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
   </a>
-<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=360" /></a>
+<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=330" /></a>
  
 <a href="#"><img style="width:100%;" alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=godofwarnings&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  <a href="https://github.com/anuraghazra/convoychat">
@@ -36,10 +36,4 @@
     
   </a>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofwarnings&show_icons=true&locale=en&layout=compact" alt="godofwarnings" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&show_icons=true&locale=en" alt="godofwarnings" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&" alt="godofwarnings" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
