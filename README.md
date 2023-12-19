@@ -28,7 +28,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
   </a>
-<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=330" /></a>
+<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=340" /></a>
  
 <a href="#"><img style="width:100%;" alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=godofwarnings&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  <a href="https://github.com/anuraghazra/convoychat">
