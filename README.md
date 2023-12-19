@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Radhikesh Agrawal</h1>
-<h3 align="center">A CS Student with a love for Systems, Web Development, and AI/ML Adventures</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHprejlqZm11aTE4eWIzdjB2NXcybHhobW4xYjB5djBiYzA4N3ZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x2nyK30RL7V5WQUKv9/giphy.gif" width="50">Hi, I'm Radhikesh Agrawal</h1>
+<h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardodipitt) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhikeshagrawal) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/leonardodipitt17) 
 
-## About me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=My%20heart%20is%20stronger%20now%20that%20you're%20in%20it.&author=The%20Secret%20World%20of%20Arrietty" />
 </div>
+
+### Web Development: Crafting Digital Experiences 🌐
+
+I specialize in backend development, sculpting the foundation of seamless and robust digital interactions.
+
+### AI/ML Enthusiast: Teaching Machines to Navigate Complexity 🧠
+
+Diving into AI/ML, my focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
+
+### Quantum Exploration: Navigating the Quantum Frontier 💡
+
+Fascinated by quantum computing, I'm on a quest to understand its revolutionary impact and potential applications.
+
+### Science + Code: Bridging Disciplines 
+
+Bringing computer science to life, I have a passion for delving into subjects where technology intersects with diverse fields. Currently, I'm working on a project that involve the fusion of particle physics, quantum computing, and machine learning (exploring ways to enable the Large Hadron Collider (LHC) to make quantum measurements). It's all about unraveling innovative ideas that bridge theory with the happenings of everyday life.
+
+### Low-Level Craftsmanship: Crafting Elegant Code ⚙️
+
+Delving into the intricacies of systems programming, operating systems, and low-level nuances, I find joy in working at the granular level to enhance code efficiency.
 
 ## My Main Projects
 
@@ -40,13 +60,18 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
-  </a>
-<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=350" /></a>
+</a>
+
+<a href="#">  <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godofwarnings&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=350" />
+</a>
  
-<a href="#"><img style="width:100%;" alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=godofwarnings&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- <a href="https://github.com/anuraghazra/convoychat">
+<a href="#"><img style="width:100%;" alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=godofwarnings&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
   <img style="height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
-    
-  </a>
+</a>
+
+Note: The "Top Languages" metric merely showcases the languages present in my public code and should not be interpreted as an accurate reflection of my experience or skill level in those languages.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
