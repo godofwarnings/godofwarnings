@@ -7,9 +7,6 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/leonardodipitt17) 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=My%20heart%20is%20stronger%20now%20that%20you're%20in%20it.&author=The%20Secret%20World%20of%20Arrietty" />
-</div>
 
 ### Web Development: Crafting Digital Experiences 🌐
 
