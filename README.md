@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Radhikesh Agrawal</h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=4000&pause=400&color=8A13F7&center=true&vCenter=true&random=false&width=490&height=70&lines=Hi+there!;I'm+Radhikesh+Agrawal" alt="Typing SVG" /></a>
+    
+    Hi, I'm Radhikesh Agrawal</h1>
 <h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
@@ -14,7 +17,7 @@
 
 I specialize in backend development, sculpting the foundation of seamless and robust digital interactions.
 
-### AI/ML Enthusiast: Teaching Machines to Navigate Complexity 🧠
+### AI/ML Enthusiast 🧠
 
 Diving into AI/ML, my focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
 
