@@ -12,23 +12,23 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 
-### Web Development: Crafting Digital Experiences 🌐
+### Web Development
 
-I specialize in backend development, sculpting the foundation of seamless and robust digital interactions.
+Full-stack developer but more interested in backend development
 
-### AI/ML Enthusiast 🧠
+### AI/ML Enthusiast
 
-Diving into AI/ML, my focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
+My focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
 
-### Quantum Exploration: Navigating the Quantum Frontier 💡
+### Quantum Exploration: Navigating the Quantum Frontier
 
-Fascinated by quantum computing, I'm on a quest to understand its revolutionary impact and potential applications.
+Fascinated by quantum computing, I'm on a quest to understand its impact on daily life and potential applications.
 
 ### Science + Code: Bridging Disciplines 
 
-Bringing computer science to life, I have a passion for delving into subjects where technology intersects with diverse fields. Currently, I'm working on a project that involve the fusion of particle physics, quantum computing, and machine learning (exploring ways to enable the Large Hadron Collider (LHC) to make quantum measurements). It's all about unraveling innovative ideas that bridge theory with the happenings of everyday life.
+Bringing computer science to life, I like to delv into subjects where technology intersects with diverse fields. Currently, I'm working on a project that involve the fusion of particle physics, quantum computing, and machine learning (exploring ways to enable the Large Hadron Collider (LHC) to make quantum measurements).
 
-### Low-Level Craftsmanship: Crafting Elegant Code ⚙️
+### Low-Level Craftsmanship: Crafting Elegant Code
 
 Delving into the intricacies of systems programming, operating systems, and low-level nuances, I find joy in working at the granular level to enhance code efficiency.
 
