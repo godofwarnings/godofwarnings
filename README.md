@@ -78,6 +78,6 @@ Delving into the intricacies of systems programming, operating systems, and low-
   <img style="height: 190px;" src="https://github-readme-streak-stats.herokuapp.com/?user=godofwarnings&theme=dracula&hide_border=true" />
 </a>
 
-Note: The "Top Languages" metric merely showcases the languages present in my public code and should not be interpreted as an accurate reflection of my experience or skill level in those languages.
+Note: The "Most Used Languages" metric merely showcases the languages present in my public code and should not be interpreted as an accurate reflection of my experience or skill level in those languages.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
