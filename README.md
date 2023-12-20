@@ -36,6 +36,7 @@ Delving into the intricacies of systems programming, operating systems, and low-
 
 <p align="left">
     <a href="https://github.com/godofwarnings/Genesis-c-shell"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=godofwarnings&repo=Genesis-c-shell&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Genesis"></a>
+   <a href="https://github.com/godofwarnings/A-simple-NFS"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=godofwarnings&repo=A-simple-NFS&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="NFS"></a>
 </p>
 
 ## 💻 Tech Stack:
