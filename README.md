@@ -14,19 +14,15 @@
 
 ### AI and Machine Learning Enthusiast
 
-I have a strong interest in machine learning, particularly in self-supervised learning models. My current research involves developing a foundation model for particle jets at the Large Hadron Collider (LHC), where I apply AI techniques to complex scientific problems.
+I have a strong interest in machine learning, particularly in self-supervised learning models. My current research involves developing a foundation model for particle jets at the Large Hadron Collider (LHC).
 
 ### Quantum Computing Exploration
 
 Quantum computing is an area that fascinates me, especially its potential to change various fields. I’m working to deepen my understanding of quantum algorithms and their applications, particularly in computational sciences.
 
-### Integrating Science and Technology
-
-I enjoy working at the intersection of science and technology. My projects often involve combining quantum computing, particle physics, and machine learning to explore new possibilities, such as enabling quantum measurements at the LHC.
-
 ### Low-Level Systems Expertise
 
-I have experience in systems programming and operating systems, focusing on low-level code. My work includes implementing scheduling algorithms and memory management techniques.
+I have experience in systems programming and operating systems, focusing on low-level code.
 
 ### C++ Programming
 
