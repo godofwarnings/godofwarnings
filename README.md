@@ -12,25 +12,33 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
 
-### Web Development
+### AI and Machine Learning Enthusiast
 
-Full-stack developer but more interested in backend development
+I have a strong interest in machine learning, particularly in self-supervised learning models. My current research involves developing a foundation model for particle jets at the Large Hadron Collider (LHC), where I apply AI techniques to complex scientific problems.
 
-### AI/ML Enthusiast
+### Quantum Computing Exploration
 
-My focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
+Quantum computing is an area that fascinates me, especially its potential to change various fields. I’m working to deepen my understanding of quantum algorithms and their applications, particularly in computational sciences.
 
-### Quantum Exploration: Navigating the Quantum Frontier
+### Integrating Science and Technology
 
-Fascinated by quantum computing, I'm on a quest to understand its impact on daily life and potential applications.
+I enjoy working at the intersection of science and technology. My projects often involve combining quantum computing, particle physics, and machine learning to explore new possibilities, such as enabling quantum measurements at the LHC.
 
-### Science + Code: Bridging Disciplines 
+### Low-Level Systems Expertise
 
-Bringing computer science to life, I like to delv into subjects where technology intersects with diverse fields. Currently, I'm working on a project that involve the fusion of particle physics, quantum computing, and machine learning (exploring ways to enable the Large Hadron Collider (LHC) to make quantum measurements).
+I have experience in systems programming and operating systems, focusing on low-level code. My work includes implementing scheduling algorithms and memory management techniques.
 
-### Low-Level Craftsmanship: Crafting Elegant Code
+### C++ Programming
 
-Delving into the intricacies of systems programming, operating systems, and low-level nuances, I find joy in working at the granular level to enhance code efficiency.
+I am proficient in C++ and use it regularly for a variety of programming tasks, particularly in areas where performance is critical.
+
+### Interest in Trading and Quantitative Finance
+
+I’m interested in trading and quantitative finance, and I’m in the process of learning more about these fields. I’m curious about how financial markets work and how programming can be applied to trading strategies.
+
+### Full-Stack Web Development
+
+I work as a full-stack developer, with a particular focus on backend development. My experience spans a range of technologies, allowing me to contribute to both the frontend and backend aspects of projects.
 
 ## My Main Projects
 
