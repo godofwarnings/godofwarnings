@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=3750&pause=800&color=F76C93&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hi+there!;I'm+Radhikesh+Agrawal" alt="Typing SVG" /></a>
-<h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
+<h3 align="center">I'm a passionate dual-degree Computer Science student with a love for Systems and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardodipitt) 
